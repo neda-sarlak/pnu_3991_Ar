@@ -1,11 +1,13 @@
 # pnu_# PNU_3991_AR
 ----------
-### ندا سرلک  
+# PNU_3991_AR
+----------
+### ندا سرلک 
 
 ---
-+ [حساب گیت هاب](https://github.com/neda-sarlak)
-+ [آدرس رزومه](https://github.com/neda-sarlak/github.io)
-+ [sop](https://github.com/neda-sarlak/sop)
++ [حساب گیت هاب](https://github.com/mehrshad1377)
++ [آدرس رزومه](https://mehrshad1377.github.io/github.io/)
++ [sop](https://mehrshad1377.github.io/SOP/)
 
 
 -------------------
@@ -13,7 +15,7 @@
 
 ## دروس کارشناسی
 
-[02-1322010 روش پژوهش و ارائه ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+[01-1322010 روش پژوهش و ارائه ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 -----------------
 
@@ -46,8 +48,8 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >روش پژوهش و ارائه02-1322010</a> </th>
-     <th ></th>
+     <th></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
      <th></th>
      <th></th>
     <th ></th>   
@@ -77,4 +79,4 @@
     <th></th>
     <th>پنج شنبه</th>
   </tr>
-</table>991_Ar
+</table>

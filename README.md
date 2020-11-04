@@ -3,8 +3,8 @@
 ### ندا سرلک 
 
 ---
-+ [حساب گیت هاب](https://github.com/)
-+ [آدرس رزومه](https://)
++ [حساب گیت هاب](https://github.com/neda-sarlak/)
++ [آدرس رزومه](https://neda-sarlak.github.io/resume/)
 + [آدرس انگیزه نامه](https://neda-sarlak.github.io/sop/)
 
 

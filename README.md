@@ -3,9 +3,9 @@
 ### ندا سرلک  
 
 ---
-+ [حساب گیت هاب](https://github.com/neda.sarlak)
-+ [آدرس رزومه](https://neda.sarlak.github.io/github.io/)
-+ [sop](https://neda.sarlak.github.io/SOP/)
++ [حساب گیت هاب](https://gist.github.com/neda-sarlak)
++ [آدرس رزومه](https://github.com/neda-sarlak/github.io)
++ [sop](https://github.com/neda-sarlak/sop)
 
 
 -------------------

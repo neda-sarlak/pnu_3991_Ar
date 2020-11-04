@@ -3,9 +3,9 @@
 ### ندا سرلک 
 
 ---
-+ [حساب گیت هاب](https://github.com/mehrshad1377)
-+ [آدرس رزومه](https://mehrshad1377.github.io/github.io/)
-+ [sop](https://mehrshad1377.github.io/SOP/)
++ [حساب گیت هاب](https://github.com/)
++ [آدرس رزومه](https://)
++ [آدرس انگیزه نامه](https://neda-sarlak.github.io/sop/)
 
 
 -------------------

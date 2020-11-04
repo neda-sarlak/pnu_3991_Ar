@@ -3,7 +3,7 @@
 ### ندا سرلک  
 
 ---
-+ [حساب گیت هاب](https://gist.github.com/neda-sarlak)
++ [حساب گیت هاب](https://github.com/neda-sarlak)
 + [آدرس رزومه](https://github.com/neda-sarlak/github.io)
 + [sop](https://github.com/neda-sarlak/sop)
 

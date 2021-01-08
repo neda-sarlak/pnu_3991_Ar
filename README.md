@@ -6,7 +6,7 @@
 + [حساب گیت هاب](https://github.com/neda-sarlak/)
 + [آدرس رزومه](https://neda-sarlak.github.io/resume/)
 + [آدرس انگیزه نامه](https://neda-sarlak.github.io/sop/)
-+[مدرک جاوا اسکریپت](https://www.sololearn.com/certificates/course/en/20585844/1024/landscape/png)
++ [مدرک جاوا اسکریپت](https://www.sololearn.com/certificates/course/en/20585844/1024/landscape/png)
 
 -------------------
 ### کارهای گروهی

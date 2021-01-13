@@ -7,7 +7,7 @@
 + [آدرس رزومه](https://neda-sarlak.github.io/resume/)
 + [آدرس انگیزه نامه](https://neda-sarlak.github.io/sop/)
 + [مدرک جاوا اسکریپت](https://www.sololearn.com/certificates/course/en/20585844/1024/landscape/png)
-+ [خلاصه ارزیابی درس روش ارائه و پزوهش] (https://www.uplooder.net/files/c0f5dea16c64c7518624d49061364ce8/خلاصه-ارزیابی-درس-روش-و-پژوهش--نداسرلک.pdf.html)
++ [خلاصه ارزیابی درس روش ارائه و پزوهش](https://www.uplooder.net/files/c0f5dea16c64c7518624d49061364ce8/خلاصه-ارزیابی-درس-روش-و-پژوهش--نداسرلک.pdf.html)
 
 -------------------
 ### کارهای گروهی
